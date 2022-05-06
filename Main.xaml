@@ -162,7 +162,7 @@
                                   <InArgument x:TypeArguments="x:String">[Linha.ByField("Estado")]</InArgument>
                                 </Assign.Value>
                               </Assign>
-                              <ui:SetValue AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" DisplayName="Set Text 'DIV'" sap:VirtualizedContainerService.HintSize="794.4,156" sap2010:WorkflowViewState.IdRef="SetValue_1" Text="[var_StrEstado]">
+                              <ui:SetValue AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" DisplayName="Set Text " sap:VirtualizedContainerService.HintSize="794.4,156" sap2010:WorkflowViewState.IdRef="SetValue_1" Text="[var_StrEstado]">
                                 <ui:SetValue.Target>
                                   <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ba95f275-9ce2-48d7-954c-10aae11f45a8" InformativeScreenshot="ea0550a39251210f6f3c4128b4a229ff" Selector="&lt;webctrl aria-role='option' tabindex='0' tag='DIV' /&gt;">
                                     <ui:Target.TimeoutMS>
